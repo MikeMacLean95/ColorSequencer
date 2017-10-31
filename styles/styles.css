@@ -1,0 +1,7 @@
+* {margin: 0px; padding: 0px; border: 1px solid black;}
+
+.one, .button, .two {
+  width: 50px;
+  height: 25px;
+  background-color: #FFFFFF;
+}
